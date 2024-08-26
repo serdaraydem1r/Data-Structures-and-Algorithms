@@ -1,0 +1,14 @@
+Array, List, Stack, Queue, Deque
+
+Array (Dizi) : Baştan kaç eleman olduğu belli olan , ekleme çıkarma
+yapılamayan veri yapılarıdır.
+import array as arr ile oluşturulur. arr.array(dizi) ile oluşturulur.
+
+
+List : Dinamik dizi diyebiliriz. Arraye göre daha esnektir. Ekleme çıkarma yapılabilir.
+Farklı veri yapıları liste içine eklenebilir.
+my_list = [] ile oluşturulur.
+
+
+
+

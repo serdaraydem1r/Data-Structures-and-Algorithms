@@ -1,0 +1,7 @@
+Kodların karmaşıklığını gösteren bir araç, teknik.
+Hem zaman karmaşıklığı hemde verim karmaşıklığını kapsar
+Ne kadar sürede çalışıyor(Time Complexity). Ne kadar yer kaplıyor.(Space Complexity)
+Daha çok zamanla alakalı problemler olur.
+O(n)-> n girdi sayısını verir.
+Her zaman en kötü senaryoyu düşünürüz.
+Brute Force -> O(n)
