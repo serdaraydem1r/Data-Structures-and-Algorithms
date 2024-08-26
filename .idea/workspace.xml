@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e65eb90-a748-4a22-8133-dc2ca1bd11c6" name="Changes" comment="26.08" />
+    <list default="true" id="4e65eb90-a748-4a22-8133-dc2ca1bd11c6" name="Changes" comment="deneme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,6 +108,7 @@
       <workItem from="1724233572873" duration="1000" />
       <workItem from="1724586346434" duration="3652000" />
       <workItem from="1724666864772" duration="267000" />
+      <workItem from="1724667819817" duration="194000" />
     </task>
     <task id="LOCAL-00001" summary="26.08">
       <option name="closed" value="true" />
@@ -141,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724667066357</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="deneme">
+      <option name="closed" value="true" />
+      <created>1724667957961</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724667957961</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,7 +158,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="26.08" />
-    <option name="LAST_COMMIT_MESSAGE" value="26.08" />
+    <MESSAGE value="deneme" />
+    <option name="LAST_COMMIT_MESSAGE" value="deneme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
