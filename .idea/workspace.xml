@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e65eb90-a748-4a22-8133-dc2ca1bd11c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Veri Yapıları ve Algoritmalar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arama Algoritmaları/search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Big O Notation -&gt; O()/BigO Nedir ? " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Big O Notation -&gt; O()/bigO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diziler &amp; Listeler/1-Mülakat Sorusu: Contains Duplicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diziler &amp; Listeler/2-Mülakat Sorusu: Find Single.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diziler &amp; Listeler/3-Mülakat Sorusu: Majority Element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diziler &amp; Listeler/List, Stack, Queue, Deque" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diziler &amp; Listeler/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sıralama Algoritmaları/insertionSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sıralama Algoritmaları/merge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sıralama Algoritmaları/sorting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="4e65eb90-a748-4a22-8133-dc2ca1bd11c6" name="Changes" comment="26.08" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,11 +107,49 @@
       <workItem from="1723196581629" duration="3667000" />
       <workItem from="1724233572873" duration="1000" />
       <workItem from="1724586346434" duration="3652000" />
+      <workItem from="1724666864772" duration="267000" />
     </task>
+    <task id="LOCAL-00001" summary="26.08">
+      <option name="closed" value="true" />
+      <created>1724666916195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724666916195</updated>
+    </task>
+    <task id="LOCAL-00002" summary="26.08">
+      <option name="closed" value="true" />
+      <created>1724667001152</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724667001152</updated>
+    </task>
+    <task id="LOCAL-00003" summary="26.08">
+      <option name="closed" value="true" />
+      <created>1724667022586</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724667022586</updated>
+    </task>
+    <task id="LOCAL-00004" summary="26.08">
+      <option name="closed" value="true" />
+      <created>1724667066357</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724667066357</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="26.08" />
+    <option name="LAST_COMMIT_MESSAGE" value="26.08" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
