@@ -1,0 +1,8 @@
+Stack : Ordered , Eklemeye push, çıkarmaya pop denir.
+        En son eklenen ilk çıakrılır.
+
+Queue : Ordered, İlk giren ilk çıkar.
+        Push : enqueue Pop : dequeue
+
+Deque : Ordered, İlk sıradan da eleman eklenip çıkarılır sondanda
+        add ,remove
