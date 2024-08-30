@@ -1,0 +1,10 @@
+!!!! Linked List bir liste türü değildir.
+
+Listeler hafızada ardı ardına gelecek şekilde ramde tutulur.
+Bu sayede listelerde index kullanılır.
+O(1)de erişilebiliyor.
+
+Linked List birbirine bağlı olan yapılar liste değil aslında node.
+her node'da 2 değer tutulut. birinde nesne diğerinde o nesnenin peşine gelen nesnenin indexi
+head ve tail kavramı kullanılır.
+Doubly Linked List genellikle kullanılır. hem sağa hem sola gider
